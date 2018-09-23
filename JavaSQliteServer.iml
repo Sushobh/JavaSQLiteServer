@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/SomeJars/javax.servlet.jar/javax.servlet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/SomeJars/java-json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/SomeJars/java-json.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/SomeJars/sqlite-jdbc-3.23.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/SomeJars/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Desktop/SomeJars/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/apidocs" />
+          <root url="file://$USER_HOME$/Desktop/SomeJars/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/site/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Desktop/SomeJars/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Desktop/SomeJars/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Desktop/SomeJars/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/SomeJars/commons-io-2.5-bin/commons-io-2.5" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Desktop/SomeJars/commons-io-2.5-bin/commons-io-2.5/docs" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Desktop/SomeJars/commons-io-2.5-bin/commons-io-2.5" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
