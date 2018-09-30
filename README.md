@@ -9,6 +9,10 @@ This java project will start a sqlite browser at localhost:3000. You can then up
 3. Visit the the sqlitebrowser at localhost:3000.
 4. Upload your sqlitedb and browse the database.
 
+### Screenshots
+
+![Screenshot](https://raw.github.com/Sushobh/JavaSQLiteServer/master/screenshot.png)
+
 
 
 
